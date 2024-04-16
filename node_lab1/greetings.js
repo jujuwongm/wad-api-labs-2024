@@ -3,4 +3,4 @@ const greeting = {
     fr: "Bonjour!"
 };
 
-export default greeting;
+export default greeting; //#endregion
